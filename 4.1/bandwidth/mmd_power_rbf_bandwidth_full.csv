@@ -39,11 +39,3 @@ rbf,5.0,Cov-small,100,0.11,fixed
 rbf,5.0,Cov-large,100,1.0,fixed
 rbf,5.0,Mix-small,100,0.0,fixed
 rbf,5.0,Mix-large,100,0.99,fixed
-rbf,median,1D-small,100,0.25,fixed
-rbf,median,1D-large,100,1.0,fixed
-rbf,median,HD-small,100,0.73,fixed
-rbf,median,HD-large,100,1.0,fixed
-rbf,median,Cov-small,100,0.19,fixed
-rbf,median,Cov-large,100,1.0,fixed
-rbf,median,Mix-small,100,0.41,fixed
-rbf,median,Mix-large,100,1.0,fixed
